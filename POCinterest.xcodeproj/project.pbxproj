@@ -14,6 +14,7 @@
 		BD31F009289C0966007DBDF5 /* POCinterest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD31F007289C0966007DBDF5 /* POCinterest.xcdatamodeld */; };
 		BD31F00B289C0969007DBDF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD31F00A289C0969007DBDF5 /* Assets.xcassets */; };
 		BD31F00E289C0969007DBDF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD31F00C289C0969007DBDF5 /* LaunchScreen.storyboard */; };
+		BD31F018289C3F34007DBDF5 /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD31F017289C3F34007DBDF5 /* VideoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BD31F00A289C0969007DBDF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD31F00D289C0969007DBDF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD31F00F289C0969007DBDF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD31F017289C3F34007DBDF5 /* VideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				BD31F00C289C0969007DBDF5 /* LaunchScreen.storyboard */,
 				BD31F00F289C0969007DBDF5 /* Info.plist */,
 				BD31F007289C0966007DBDF5 /* POCinterest.xcdatamodeld */,
+				BD31F017289C3F34007DBDF5 /* VideoViewController.swift */,
 			);
 			path = POCinterest;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				BD31F009289C0966007DBDF5 /* POCinterest.xcdatamodeld in Sources */,
 				BD31F003289C0966007DBDF5 /* ViewController.swift in Sources */,
 				BD31EFFF289C0966007DBDF5 /* AppDelegate.swift in Sources */,
+				BD31F018289C3F34007DBDF5 /* VideoViewController.swift in Sources */,
 				BD31F001289C0966007DBDF5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
